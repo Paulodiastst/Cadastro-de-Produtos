@@ -19,6 +19,11 @@
       "name": "Lápis Preto",
       "price": "2.50",
       "id": 4
+    },
+    {
+      "name": "Pincel ",
+      "price": "2.50",
+      "id": 5
     }
   ]
 }
