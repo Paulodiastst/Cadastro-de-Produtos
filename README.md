@@ -7,7 +7,7 @@ Desafio: Desenvolver um Website usando uma das tecnologias mais hypadas de Front
 ## 📝 Tecnologias
 
 - JavaScript: Linguagem oficial para desenvolvimento web.
-- TypeScript: Superset que adiciona recursos como tipagem de dados e outros recursos sobre JavaScript 
+- TypeScript: Superset que adiciona recursos como tipagem de dados e outros recursos sobre JavaScript
 - NodeJS: Plataforma que nos permite rodar JavaScript fora do navegador.
 - Angular: Framework JavaScript que provê mecanismos de manipulação da DOM e o padrão SPA.
 - VS Code: IDE para desenvolvimento Web desenvolvida pela Microsoft.
@@ -24,14 +24,12 @@ Desafio: Desenvolver um Website usando uma das tecnologias mais hypadas de Front
 
 ## Exploramos os recursos essenciais em um desenvolvimento utilizando Angular conforme abaixo:
 
-- Angular 13: https://angular.io/ 
-- Angular HttpClient: https://angular.io/api/common/http/HttpClient 
-- Angular Router: https://angular.io/api/router 
-- Bootstrap 5: https://getbootstrap.com/ 
-
-
+- Angular 13: https://angular.io/
+- Angular HttpClient: https://angular.io/api/common/http/HttpClient
+- Angular Router: https://angular.io/api/router
+- Bootstrap 5: https://getbootstrap.com/
 
 ## 📝 Projeto Concluido
 
  <p align="center">
-<img src="https://user-images.githubusercontent.com/79487813/167975519-c8a3d3ea-2705-440e-9ec1-c6d0857f0dbf.png"/></P>
+<img src="https://user-images.githubusercontent.com/79487813/173969857-f5e4a285-fcd1-43ca-8425-ec292af4bff3.gif"/></P>
